@@ -76,10 +76,6 @@ function Resetall() {
     document.getElementById("list").innerHTML='';
 }
 
-// document.forms[0].addEventListener('reset', function() {
-//     document.getElementById('result').innerHTML = '';
-// });
-
 
 
 
